@@ -1,1 +1,1 @@
-# clash
+自用的clash配置模板
