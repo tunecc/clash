@@ -18,10 +18,3 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com
 DOMAIN-SUFFIX,pcdn.xmcdn.com
 DOMAIN-SUFFIX,pcdn.yximgs.com
-
-REGEX,.*pcdn.*biliapi\.net.*
-REGEX,.*pcdn.*youku\.com.*
-REGEX,.*p2p.*douyucdn\.cn.*
-REGEX,.*p2p.*qq\.com.*
-REGEX,.*pcdn.*biliapi\.net.*
-REGEX,.*pcdn.*youku\.com.*
