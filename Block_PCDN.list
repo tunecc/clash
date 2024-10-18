@@ -34,3 +34,13 @@ DOMAIN-SUFFIX,p2ptun.qq.com
 DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
 DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
 DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
+
+##正则
+
+DOMAIN-REGEX,^.*pcdn.*biliapi\.net
+DOMAIN-REGEX,^.*pcdn.*youku\.com
+DOMAIN-REGEX,^.*p2p.*douyucdn\.cn
+DOMAIN-REGEX,^.*p2p.*qq\.com
+DOMAIN-REGEX,^.*pcdn.*biliapi\.net
+DOMAIN-REGEX,^.*pcdn.*youku\.com
+DOMAIN-REGEX,^cn-.*\.bilivideo\.(com|cn)
